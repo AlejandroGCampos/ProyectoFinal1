@@ -1,6 +1,6 @@
 # ProyectoFinal1
 
-Acá el código
+Acá el código (no subi lo packages porque son un monton jaja :c)
 ```csharp
 using System;
 using System.Net.Http;
