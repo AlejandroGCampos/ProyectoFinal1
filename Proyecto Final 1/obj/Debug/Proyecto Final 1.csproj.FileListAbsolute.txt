@@ -1,0 +1,33 @@
+C:\Users\al3j4\Documents\Tareas\Progra 1\Proyecto Final 1\Proyecto Final 1\bin\Debug\Proyecto Final 1.exe.config
+C:\Users\al3j4\Documents\Tareas\Progra 1\Proyecto Final 1\Proyecto Final 1\bin\Debug\Proyecto Final 1.exe
+C:\Users\al3j4\Documents\Tareas\Progra 1\Proyecto Final 1\Proyecto Final 1\bin\Debug\Proyecto Final 1.pdb
+C:\Users\al3j4\Documents\Tareas\Progra 1\Proyecto Final 1\Proyecto Final 1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\al3j4\Documents\Tareas\Progra 1\Proyecto Final 1\Proyecto Final 1\bin\Debug\System.Buffers.dll
+C:\Users\al3j4\Documents\Tareas\Progra 1\Proyecto Final 1\Proyecto Final 1\bin\Debug\System.Data.SqlClient.dll
+C:\Users\al3j4\Documents\Tareas\Progra 1\Proyecto Final 1\Proyecto Final 1\bin\Debug\System.IO.Pipelines.dll
+C:\Users\al3j4\Documents\Tareas\Progra 1\Proyecto Final 1\Proyecto Final 1\bin\Debug\System.Memory.dll
+C:\Users\al3j4\Documents\Tareas\Progra 1\Proyecto Final 1\Proyecto Final 1\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\al3j4\Documents\Tareas\Progra 1\Proyecto Final 1\Proyecto Final 1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\al3j4\Documents\Tareas\Progra 1\Proyecto Final 1\Proyecto Final 1\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\al3j4\Documents\Tareas\Progra 1\Proyecto Final 1\Proyecto Final 1\bin\Debug\System.Text.Json.dll
+C:\Users\al3j4\Documents\Tareas\Progra 1\Proyecto Final 1\Proyecto Final 1\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\al3j4\Documents\Tareas\Progra 1\Proyecto Final 1\Proyecto Final 1\bin\Debug\System.ValueTuple.dll
+C:\Users\al3j4\Documents\Tareas\Progra 1\Proyecto Final 1\Proyecto Final 1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\al3j4\Documents\Tareas\Progra 1\Proyecto Final 1\Proyecto Final 1\bin\Debug\System.Buffers.xml
+C:\Users\al3j4\Documents\Tareas\Progra 1\Proyecto Final 1\Proyecto Final 1\bin\Debug\System.Data.SqlClient.xml
+C:\Users\al3j4\Documents\Tareas\Progra 1\Proyecto Final 1\Proyecto Final 1\bin\Debug\System.IO.Pipelines.xml
+C:\Users\al3j4\Documents\Tareas\Progra 1\Proyecto Final 1\Proyecto Final 1\bin\Debug\System.Memory.xml
+C:\Users\al3j4\Documents\Tareas\Progra 1\Proyecto Final 1\Proyecto Final 1\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\al3j4\Documents\Tareas\Progra 1\Proyecto Final 1\Proyecto Final 1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\al3j4\Documents\Tareas\Progra 1\Proyecto Final 1\Proyecto Final 1\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\al3j4\Documents\Tareas\Progra 1\Proyecto Final 1\Proyecto Final 1\bin\Debug\System.Text.Json.xml
+C:\Users\al3j4\Documents\Tareas\Progra 1\Proyecto Final 1\Proyecto Final 1\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\al3j4\Documents\Tareas\Progra 1\Proyecto Final 1\Proyecto Final 1\obj\Debug\Proyecto Final 1.csproj.AssemblyReference.cache
+C:\Users\al3j4\Documents\Tareas\Progra 1\Proyecto Final 1\Proyecto Final 1\obj\Debug\Proyecto Final 1.csproj.ResolveComReference.cache
+C:\Users\al3j4\Documents\Tareas\Progra 1\Proyecto Final 1\Proyecto Final 1\obj\Debug\Proyecto_Final_1.Form1.resources
+C:\Users\al3j4\Documents\Tareas\Progra 1\Proyecto Final 1\Proyecto Final 1\obj\Debug\Proyecto_Final_1.Properties.Resources.resources
+C:\Users\al3j4\Documents\Tareas\Progra 1\Proyecto Final 1\Proyecto Final 1\obj\Debug\Proyecto Final 1.csproj.GenerateResource.cache
+C:\Users\al3j4\Documents\Tareas\Progra 1\Proyecto Final 1\Proyecto Final 1\obj\Debug\Proyecto Final 1.csproj.CoreCompileInputs.cache
+C:\Users\al3j4\Documents\Tareas\Progra 1\Proyecto Final 1\Proyecto Final 1\obj\Debug\Proyecto.BDC53BDE.Up2Date
+C:\Users\al3j4\Documents\Tareas\Progra 1\Proyecto Final 1\Proyecto Final 1\obj\Debug\Proyecto Final 1.exe
+C:\Users\al3j4\Documents\Tareas\Progra 1\Proyecto Final 1\Proyecto Final 1\obj\Debug\Proyecto Final 1.pdb
